@@ -104,3 +104,12 @@ file.
  -  ppliances	   6374.4	       3893.3	    -38.922879
  -  Fasteners	     40.1	          8.8	    -78.054863
 
+### Final Conclusion
+
+To make smart business decisions, focus on the top 10 products that bring the most revenue. Each region has its own top 5 best-selling products, which can guide regional marketing. Sales grew and drop month by month from 2022 to 2023, showing overall positive and negative trends. Different product categories had peak sales in different months, which helps in planning promotions. The sub-category with the highest profit growth in 2023 should be prioritized for investment and scaling, loss in 2023 should be stop selling that sub category products.
+
+
+
+
+
+
