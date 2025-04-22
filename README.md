@@ -12,3 +12,6 @@ project identifies the highest revenue products, highest selling regions and gro
 The goal is to uncover comparision sales and profit by region, category, year and month.
 
 ### Dataset used 
+This dataset was originally downloaded from Kaggle. Unfortunately, I no longer have the exact link. so that uploaded the 
+file.
+
