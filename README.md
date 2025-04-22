@@ -78,7 +78,7 @@ file.
   -	9	   79142.2	   76658.6
   -	10	 118912.7	   121061.5
   -	11	 84225.3	   75432.8
-  - 	12	 95869.9	   102556.1
+  - 12	 95869.9	   102556.1
 - Highest sales month for each category
     category	      ym	 sales	
    -Furniture	       8	 71649.5	
